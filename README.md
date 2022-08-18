@@ -1,6 +1,7 @@
 # BMR
 Bisectore Migration ResponseTime
 
+<img src="https://github.com/imperial-qore/COSCO/raw/master/wiki/COSCO.jpg" width="900" align="middle" style="max-width: 100%;">
 
 <h2>Advantages of BMR </h2>
 1- Creation of two new models for Optimal schedule
