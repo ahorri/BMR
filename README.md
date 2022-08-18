@@ -1,7 +1,7 @@
 # BMR
 Bisectore Migration ResponseTime
 
-<img src="https://github.com/ahorri/BMR/blob/main/3layer%20english.jpg" width="900" align="middle" style="max-width: 100%;">
+<img src="https://github.com/ahorri/BMR/blob/main/3layer%20english.jpg" width="300" align="middle" style="max-width: 100%;">
 
 <h2>Advantages of BMR </h2>
 1- Creation of two new models for Optimal schedule
