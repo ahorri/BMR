@@ -19,3 +19,4 @@
 <p>To run the MBR schedule, install required packages using</p>
 <p>run: pip install -r requirements.txt in your shell</p>
 <p>To run the code with the required scheduler, modify the main.py to one of the several options.</p>
+<p> we use and extend some article code.for more information https://github.com/imperial-qore/COSCO/wiki </p>
